@@ -1,0 +1,19 @@
+names:
+- asteroid
+- black-hole
+- galaxy
+- meteoroid
+- nebula
+- planet
+- satellite
+- sun-star
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: cel-bodies
+  url: https://universe.roboflow.com/school-oylla/cel-bodies/dataset/1
+  version: 1
+  workspace: school-oylla
+test: /kaggle/working/cel-bodies-1/test/images
+train: /kaggle/working/cel-bodies-1/train/images
+val: /kaggle/working/cel-bodies-1/valid/images
